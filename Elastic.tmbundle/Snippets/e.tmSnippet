@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"&gt;
+&lt;html&gt;
+	&lt;head&gt;
+		&lt;title&gt;$0&lt;/title&gt;
+		&lt;link rel="stylesheet" type="text/css" media="all" href="/elastic/reset.css" /&gt;
+		&lt;link rel="stylesheet" type="text/css" media="all" href="/elastic/base.css" /&gt;
+		&lt;link rel="stylesheet" type="text/css" media="all" href="/elastic/fonts.css" /&gt;
+		&lt;link rel="stylesheet" type="text/css" media="all" href="/elastic/class.css" /&gt;
+		&lt;link rel="stylesheet" type="text/css" media="all" href="/elastic/grid.css" /&gt;
+		&lt;link rel="stylesheet" type="text/css" media="all" href="/stylesheets/skin.css" /&gt;
+		&lt;script src="/elastic/helpers_jquery/jquery.js" type="text/javascript" language="javascript" charset="utf-8"&gt;&lt;/script&gt;
+		&lt;script src="/elastic/helpers_jquery/helpers.js" type="text/javascript" language="javascript" charset="utf-8"&gt;&lt;/script&gt;
+	&lt;/head&gt;
+	&lt;body&gt;
+		&lt;div class="unit layout"&gt;
+			&lt;div class="unit header"&gt;
+				
+			&lt;/div&gt;
+			&lt;div class="unit body"&gt;
+				
+			&lt;/div&gt;
+			&lt;div class="unit footer"&gt;
+				
+			&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/body&gt;
+&lt;/html&gt;</string>
+	<key>name</key>
+	<string>e</string>
+	<key>tabTrigger</key>
+	<string>e</string>
+	<key>uuid</key>
+	<string>E42F1E43-F53C-4F69-A698-58F496F2FF36</string>
+</dict>
+</plist>
