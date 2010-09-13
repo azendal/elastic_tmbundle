@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>&lt;div class="fixed column$1"$2&gt;
+	<string>&lt;div class="$1on-$2columns$3"&gt;
 	$0
 &lt;/div&gt;</string>
 	<key>name</key>
-	<string>efcol</string>
+	<string>eon</string>
 	<key>tabTrigger</key>
-	<string>efcol</string>
+	<string>eon</string>
 	<key>uuid</key>
-	<string>F61CCD37-953A-4D9D-8B5A-4070685246E3</string>
+	<string>C7D0179E-A9BF-4A2F-928A-7DBA4FC34FB7</string>
 </dict>
 </plist>
