@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>&lt;div class="unit three-columns$1"&gt;
+	<string>&lt;div class="container$1"$2&gt;
 	$0
 &lt;/div&gt;</string>
 	<key>name</key>
-	<string>ethree</string>
+	<string>econ</string>
 	<key>tabTrigger</key>
-	<string>ethree</string>
+	<string>econ</string>
 	<key>uuid</key>
-	<string>C5D93DE8-3A94-4157-ABB7-118009C55325</string>
+	<string>9FF1C3EF-CFFD-4FA1-BC3C-7453CF8233BC</string>
 </dict>
 </plist>

@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>&lt;div class="elastic-column$1"&gt;
+	<string>&lt;div class="$1columns$2"&gt;
 	$0
 &lt;/div&gt;</string>
 	<key>name</key>
-	<string>eec</string>
+	<string>ecols</string>
 	<key>tabTrigger</key>
-	<string>eec</string>
+	<string>ecols</string>
 	<key>uuid</key>
-	<string>6DACD1BA-C474-4FE1-A7D4-F9598963D014</string>
+	<string>2527B294-13EA-417A-AEAB-2492B6AB63E2</string>
 </dict>
 </plist>

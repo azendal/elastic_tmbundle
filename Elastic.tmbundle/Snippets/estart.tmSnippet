@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"&gt;
+&lt;html&gt;
+	&lt;head&gt;
+		&lt;title&gt;$1&lt;/title&gt;
+		&lt;link rel="stylesheet" type="text/css" media="all" href="$2elastic.css" /&gt;
+		&lt;script src="$3jquery.js" type="text/javascript"&gt;&lt;/script&gt;
+		&lt;script src="$2elastic.js"&gt;&lt;/script&gt;
+	&lt;/head&gt;
+	&lt;body&gt;
+		&lt;div class="unit layout"&gt;
+			&lt;div class="unit header"&gt;
+				$0
+			&lt;/div&gt;
+			&lt;div class="unit body"&gt;
+				
+			&lt;/div&gt;
+			&lt;div class="unit footer"&gt;
+				
+			&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/body&gt;
+&lt;/html&gt;</string>
+	<key>name</key>
+	<string>estart</string>
+	<key>tabTrigger</key>
+	<string>estart</string>
+	<key>uuid</key>
+	<string>E42F1E43-F53C-4F69-A698-58F496F2FF36</string>
+</dict>
+</plist>
